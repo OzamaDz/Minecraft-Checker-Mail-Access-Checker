@@ -1,3 +1,5 @@
+#Discord Grabber
+
 import requests, os, threading, sys, time, random, ctypes, webbrowser,re, hashlib, datetime, os.path, tkinter
 from colorama import Fore, init
 from re import search
